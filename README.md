@@ -5,4 +5,4 @@ Convert any website in a Desigual design
 Uses the [Express JS](http://expressjs.com/) framework for [Node](https://nodejs.org/en/)
 
 ## License
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://tldrlegal.com/license/mit-license#summary)
