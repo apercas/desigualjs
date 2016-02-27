@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/apercas/desigualjs/issues"
   },
-  "homepage": "https://github.com/apercas/desigualjs#readme"
+  "homepage": "https://github.com/apercas/desigualjs#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
