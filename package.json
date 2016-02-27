@@ -1,0 +1,19 @@
+{
+  "name": "exjs",
+  "version": "1.0.0",
+  "description": "express js testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apercas/desigualjs.git"
+  },
+  "author": "apercas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apercas/desigualjs/issues"
+  },
+  "homepage": "https://github.com/apercas/desigualjs#readme"
+}
